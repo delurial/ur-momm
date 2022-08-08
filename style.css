@@ -1,0 +1,22 @@
+#container {
+    background-color: #f0e8ec;
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-family: Geneva Regular, Helvetica, sans-serif;
+}
+#median {
+	background-color: white;
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+#title {
+	background-color: #dbb9df;
+}
+#p {
+	font-size: 9px;
+	text-align: center;
+}
